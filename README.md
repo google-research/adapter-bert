@@ -1,4 +1,3 @@
-
 # Adapter-BERT
 
 ## Introduction
